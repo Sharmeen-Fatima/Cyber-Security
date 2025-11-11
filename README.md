@@ -4,10 +4,11 @@ Welcome to this brief guide on **Cyber Security** 🧠
 This README explains — in simple and professional terms — what Cyber Security is, the roles of **Blue & Red Teams**, what **Threats** and **Vulnerabilities** mean, and the most **common types of cyberattacks**.
 
 ---
-## 💻 What is Cyber?
-**Cyber** refers to anything related to **computers, networks, or the internet**.  
-Examples: websites, mobile apps, servers, and cloud systems.
-
+## 💻🔐 What is Cyber Security?
+**Cyber security** is the practice of protecting computers, networks, and data from unauthorized access, attacks, or damage.
+It involves technologies, processes, and policies to ensure information confidentiality, integrity, and availability.  
+Example:
+Installing antivirus software on your computer to block viruses or malware is a form of cyber security — it protects your system and data from harmful attacks. 🛡️💻
 ---
 
 ## 💻 What is Cyber?
