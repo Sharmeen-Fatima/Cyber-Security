@@ -92,6 +92,5 @@ To expand your skills:
 
 ---
 
-🧠 **Author:** *Your Name*  
-📅 **Last Updated:** *November 2025*  
-🌐 **License:** MIT  
+🧠 **Author:** *Sharmeen Fatima*  
+📅 **Last Updated:** *11 November 2025*  
