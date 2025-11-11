@@ -1,9 +1,13 @@
-# Cyber-Security 🔐
 # 🔐 Cyber Security — Simplified Overview
 
 Welcome to this brief guide on **Cyber Security** 🧠  
 This README explains — in simple and professional terms — what Cyber Security is, the roles of **Blue & Red Teams**, what **Threats** and **Vulnerabilities** mean, and the most **common types of cyberattacks**.
 
+---
+
+## 💻 What is Cyber Security?
+Cyber security is the practice of protecting computers, networks, and data from unauthorized access, attacks, or damage.
+It involves technologies, processes, and policies to ensure information confidentiality, integrity, and availability.
 ---
 
 ## 💻 What is Cyber?
