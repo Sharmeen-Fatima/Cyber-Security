@@ -10,6 +10,8 @@ This README explains — in simple and professional terms — what Cyber Securit
 **Cyber security** is the practice of protecting computers, networks, and data from unauthorized access, attacks, or damage.
 It involves technologies, processes, and policies to ensure information confidentiality, integrity, and availability.🛡️
 
+**Example:** Installing antivirus software on your computer to block viruses or malware is a form of cyber security — it protects your system and data from harmful attacks. 🛡️💻
+
 ---
 
 ## 💻 What is Cyber?
