@@ -95,8 +95,7 @@ Examples: using passwords, firewalls, encryption, and secure authentication.
 
 ## 📘 Learn More
 To expand your skills:
-- Practice in **ethical hacking labs** (tryHackMe, Hack The Box, etc.).  
-- Follow trusted cybersecurity blogs and take **certifications or courses**.  
+- Practice in **ethical hacking labs** (tryHackMe, Hack The Box, etc.).   
 - Stay updated — cyber threats evolve every day.
 
 ---
