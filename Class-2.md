@@ -38,4 +38,40 @@ When you open **Windows**, click **Start Menu**, open apps with icons — **that
 | **CLI** | Typing commands in Terminal / CMD               |
 
 ---
+### **CLI (Command Line Interface)**
+
+CLI is a **text-based way to use a computer** where you **type commands** instead of clicking buttons.
+
+You interact with the system using **commands**, not icons.
+
+---
+
+### **Simple Example:**
+
+When you open **CMD (Command Prompt)** or **Terminal** and type things like:
+
+```
+ping google.com
+dir
+cd Desktop
+```
+
+— **that is CLI.**
+
+---
+
+### **One-Line Definition:**
+
+👉 **CLI is an interface where you control the computer by typing commands.**
+
+---
+
+### **Easy Comparison:**
+
+| Interface | How You Use It        | Example                         |
+| --------- | --------------------- | ------------------------------- |
+| **GUI**   | Click buttons & icons | Windows, Android, iPhone        |
+| **CLI**   | Type commands         | CMD, PowerShell, Linux Terminal |
+
+---
 
