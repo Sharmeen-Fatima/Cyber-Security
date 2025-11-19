@@ -20,3 +20,9 @@ We are learning **Ethical Hacking,** not hacking. It's is very important for eve
 **Cyber Security** to practice, to sure web application, System, and Network.
 
 ---
+
+## Breif Introduction about Cyber.
+
+**Kindly Self Learning at home of this Topics** Red Teamer & Blue Teamer, What is Vulerability?
+
+---
