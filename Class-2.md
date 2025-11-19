@@ -89,6 +89,26 @@ cd Desktop
 **Hackers use CLI because it gives more power and speed than GUI.**
 
 ---
+### **📌 What is Linux?**
+
+👉 **Linux is an operating system**, just like Windows or Mac, that runs your computer, server, or phone.
+
+---
+
+### **📌 Is Linux Open Source?**
+
+✅ **Yes!**
+
+* Its code is **free to see, modify, and share**.
+* That’s why there are **so many Linux versions (distros)** like Ubuntu, Kali, Mint.
+
+---
+
+### **One-Line Summary:**
+
+**Linux = Free and open-source OS that anyone can use and customize.**
+
+---
 ### **📌 What is a Port?**
 
 👉 A **port** is like a **door** on a computer that allows data to enter or leave.
