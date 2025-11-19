@@ -36,7 +36,7 @@ We are learning **Ethical Hacking,** not hacking. It's is very important for eve
 ---
 
 🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
-📅 **Last Updated:** *11 November 2025*  
+📅 **Last Updated:** *19 November 2025*  
 
 - **📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).****
 - ***✒ For more information about Cyber-Security and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
