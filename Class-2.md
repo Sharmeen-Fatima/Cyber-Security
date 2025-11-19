@@ -87,3 +87,44 @@ cd Desktop
 
 **Simple line:**
 **Hackers use CLI because it gives more power and speed than GUI.**
+
+---
+### **📌 What is a Port?**
+
+👉 A **port** is like a **door** on a computer that allows data to enter or leave.
+
+**Example:**
+
+* Website (HTTP) uses **Port 80**
+* Login (SSH) uses **Port 22**
+
+Just think:
+**Computer has many doors, each door is used for a specific purpose.**
+
+---
+
+### **📌 What is a Protocol?**
+
+👉 A **protocol** is **a rule or method that tells computers how to communicate**.
+
+**Example:**
+
+* HTTP → Rules for websites
+* FTP → Rules for file transfer
+* SMTP → Rules for sending emails
+
+Just think:
+**Protocol = Rules of communication**
+**Port = Door used for that communication**
+
+---
+
+### **Simple Relation:**
+
+| Protocol (Rules) | Port (Door) |
+| ---------------- | ----------- |
+| HTTP             | Port 80     |
+| HTTPS            | Port 443    |
+| SSH              | Port 22     |
+
+---
