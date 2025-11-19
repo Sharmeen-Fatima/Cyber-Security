@@ -15,4 +15,4 @@ Examples: using passwords, firewalls, encryption, and secure authentication.
 
 ---
 
-#### GUI (Graphical User Interface).
+### GUI (Graphical User Interface).
