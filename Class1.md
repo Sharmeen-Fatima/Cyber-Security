@@ -23,7 +23,9 @@ We are learning **Ethical Hacking,** not hacking. It's is very important for eve
 
 ## Breif Introduction about Cyber.
 
-**Kindly Self Learning at home of this Topics** Red Teamer & Blue Teamer, What is Vulerability?
+**Kindly Self Learning at home of the Below mention topics.** 
+1. Red Teamer & Blue Teamer
+2. What is Vulerability?
 
 ---
 
