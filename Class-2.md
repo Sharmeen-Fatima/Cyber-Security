@@ -2,7 +2,17 @@
 
 * 15-November-2025
 ---
+## Today Class Topic:
 
+1. What is Cyber?
+2. What is Security?
+3. GUI (Graphical User Interface).
+4. CLI (Command Line Interface).
+5. Linux.
+6. Port.
+7. Protocol.
+   
+---
 ## 💻 What is Cyber?
 **Cyber** refers to anything related to **computers, networks, or the internet**.  
 Examples: websites, mobile apps, servers, and cloud systems.
