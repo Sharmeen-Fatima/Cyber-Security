@@ -26,8 +26,34 @@ We are learning **Ethical Hacking,** not hacking. It's is very important for eve
 ## Breif Introduction about Cyber.
 
 **Kindly Self Learning at home of the Below mention topics.** 
-1. Red Teamer & Blue Teamer
-2. What is Vulerability?
+
+## 1. Red Teamer & Blue Teamer
+
+---
+
+### **🔴 Red Team**
+
+* Think of them as **hackers**.
+* Their job: **attack the system** to find weaknesses.
+* Example: Try to break into a company’s network to see how secure it is.
+
+---
+
+### **🔵 Blue Team**
+
+* Think of them as **defenders**.
+* Their job: **protect the system** from attacks.
+* Example: Monitor, block, and fix security problems to stop hackers.
+
+---
+
+### **One-Line Summary:**
+
+**Red Team = Attackers | Blue Team = Defenders**
+
+---
+
+3. What is Vulerability?
 
 ---
 
