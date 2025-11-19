@@ -75,3 +75,15 @@ cd Desktop
 
 ---
 
+### **Which is better for Ethical Hacking?**
+
+👉 **CLI is better.**
+
+### **Why?**
+
+👉 Because it's **faster, more powerful, gives more control, and most hacking tools work in CLI.**
+
+---
+
+**Simple line:**
+**Hackers use CLI because it gives more power and speed than GUI.**
