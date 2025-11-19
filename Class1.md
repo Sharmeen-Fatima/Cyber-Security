@@ -1,9 +1,6 @@
 # Cyber Security 1st Class 
 
 ---
-### Introduction.
-
----
 ## System Configration:
 
 **Required Configration:**
@@ -11,6 +8,10 @@
 1. RAM: 8/16GM
 2. SSD/M2/HD 256
 3. Core i generation.
+
+---
+## Important:
+**We are learning **Ethical Hacking,** not hacking. It's is very important for every student. Everyone who learns here must understand this clearly.**
 
 ---
 
