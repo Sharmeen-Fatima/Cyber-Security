@@ -6,7 +6,11 @@
 ---
 ## System Configration:
 
-Here: 
+**Required Configration:**
+
+1. RAM: 8/16GM
+2. SSD/M2/HD 256
+3. Core i generation.
 
 ---
 
