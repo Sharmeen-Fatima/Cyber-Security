@@ -27,9 +27,9 @@ We are learning **Ethical Hacking,** not hacking. It's is very important for eve
 
 **Kindly Self Learning at home of the Below mention topics.** 
 
-## 1. Red Teamer & Blue Teamer
-
 ---
+
+## 1. Red Teamer & Blue Teamer
 
 ### **🔴 Red Team**
 
@@ -53,7 +53,24 @@ We are learning **Ethical Hacking,** not hacking. It's is very important for eve
 
 ---
 
-3. What is Vulerability?
+## 2. What is Vulnerability
+
+---
+
+### **📌 Vulnerability**
+
+👉 A **weak spot in a system, software, or network** that hackers can use to attack.
+
+**Example:**
+
+* A website login that is easy to guess
+* A program with a bug that allows hackers to enter
+
+---
+
+### **One-Line Summary:**
+
+**Vulnerability = A weakness that hackers can exploit.**
 
 ---
 
