@@ -6,4 +6,6 @@
 
 ## What is Security?
 
-## GUI (Graphical User Interface).
+## GUI.
+
+* (Graphical User Interface).
