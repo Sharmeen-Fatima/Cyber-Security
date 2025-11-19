@@ -11,7 +11,7 @@
 
 ---
 ## Important:
-**We are learning **Ethical Hacking,** not hacking. It's is very important for every student. Everyone who learns here must understand this clearly.**
+We are learning **Ethical Hacking,** not hacking. It's is very important for every student. Everyone who learns here must understand this clearly.
 
 ---
 
