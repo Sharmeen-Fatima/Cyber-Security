@@ -31,7 +31,7 @@ We are learning **Ethical Hacking,** not hacking. It's is very important for eve
 
 ---
 
-> 💡 *This README is for educational purposes — designed to help beginners understand the core concepts of Cyber Security clearly and professionally.*
+> 💡 *This is our Cyber Security at Bano Qabil 1st Class Assignment and Introduction, Which unfortunatly wasn;t came on First class so Kindly read CareFully and Understand, Addtionally Self Learning is very Importand our cyber career. "THANK YOU"*
 
 ---
 
