@@ -74,7 +74,7 @@ We are learning **Ethical Hacking,** not hacking. It's is very important for eve
 
 ---
 
-> 💡 *This is our Cyber Security at Bano Qabil 1st Class Assignment and Introduction, Which unfortunatly wasn;t came on First class so Kindly read CareFully and Understand, Addtionally Self Learning is very Importand our cyber career. "THANK YOU"*
+> 💡 *This is our Cyber Security at Bano Qabil 1st Class Assignment and Introduction, Whose students unfortunatly wasn't came on First class so Kindly read CareFully and Understand, Addtionally Self Learning is very Importand our cyber career. "THANK YOU"*
 
 ---
 
