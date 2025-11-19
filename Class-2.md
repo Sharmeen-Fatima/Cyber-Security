@@ -15,4 +15,27 @@ Examples: using passwords, firewalls, encryption, and secure authentication.
 
 ---
 
-### GUI (Graphical User Interface).
+### **GUI (Graphical User Interface)**
+
+GUI is **the visual screen you interact with on a computer or mobile**, where you click on **buttons, icons, menus, and windows** instead of typing commands.
+
+**Example:**
+When you open **Windows**, click **Start Menu**, open apps with icons — **that is GUI**.
+
+---
+
+### **One-Line Definition:**
+
+👉 **GUI is a user-friendly visual interface that lets you use a computer by clicking instead of typing commands.**
+
+---
+
+### **Simple Comparison:**
+
+| Type    | Example                                         |
+| ------- | ----------------------------------------------- |
+| **GUI** | Click icons, buttons (Windows, Android, iPhone) |
+| **CLI** | Typing commands in Terminal / CMD               |
+
+---
+
