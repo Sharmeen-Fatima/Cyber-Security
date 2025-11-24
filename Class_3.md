@@ -5,6 +5,9 @@
 ## Today Class Topic:
 
 1. [When you log in to your Google account on any PC, what things get generated?](https://github.com/Sharmeen-Fatima/Cyber-Security/blob/main/Class_3.md#q1-when-you-log-in-to-your-google-account-on-any-pc-what-things-get-generated)
+2. [What is Session ID?]()
+3. [What is Tokens?]()
+4. [What is Cookies?]()
 
 ---
 
@@ -75,7 +78,7 @@ Here is a clean, professional, and easy-to-understand **table with examples** fo
 
 ---
 
-## **Cybersecurity Terms — Professional Table with Simple Examples**
+## **Cybersecurity Terms — Beginners Table with Simple Examples**
 
 | **Term**                                           | **Definition**                                               | **Example **                                                                                                                                               |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
