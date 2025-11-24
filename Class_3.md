@@ -1,4 +1,6 @@
-## Q1: **When you log in to your Google account on any PC, what things get generated?**
+## Q1: When you log in to your Google account on any PC, what things get generated?
+
+---
 
 A:
 
