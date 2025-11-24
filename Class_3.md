@@ -8,7 +8,8 @@
    
 2. [What is Session ID?](https://github.com/Sharmeen-Fatima/Cyber-Security/blob/main/Class_3.md#2%EF%B8%8F%E2%83%A3-session-id)
 3. [What is Tokens?](https://github.com/Sharmeen-Fatima/Cyber-Security/blob/main/Class_3.md#3%EF%B8%8F%E2%83%A3-tokens)
-4. [What is Cookies?]()
+4. [What is Cookies?](https://github.com/Sharmeen-Fatima/Cyber-Security/blob/main/Class_3.md#1%EF%B8%8F%E2%83%A3-cookies)
+5. [Cybersecurity Terms — Beginners Table with Simple Examples]().
 
 ---
 
