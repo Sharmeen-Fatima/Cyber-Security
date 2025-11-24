@@ -1,4 +1,12 @@
-## **1️⃣ Cookies**
+## Q1: **When you log in to your Google account on any PC, what things get generated?**
+
+A:
+
+1. Session ID
+2. Tokens
+3. Cookies
+
+### **1️⃣ Cookies**
 
 Cookies are small text files stored in your browser.
 They are used to:
@@ -13,7 +21,7 @@ You stay logged into YouTube because the cookie stores your login info.
 
 ---
 
-## **2️⃣ Session ID**
+### **2️⃣ Session ID**
 
 A Session ID is a unique code that identifies your current visit to a website.
 
@@ -27,7 +35,7 @@ When the session expires, you must log in again.
 
 ---
 
-## **3️⃣ Tokens**
+### **3️⃣ Tokens**
 
 A Token is a secure digital key or proof of identity used in modern authentication systems.
 
