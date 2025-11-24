@@ -22,19 +22,11 @@
 
 - Anything that can harm a system.
 
-### **6) Hack**
-
-- Gaining access into a system — for good or bad reasons.
-
-### **7) Attack**
-
-- Trying to break or damage a system.
-
-### **8) Virus**
+### **6) Virus**
 
 - A harmful program that infects and spreads in computers.
 
-### **9) 3rd Party App**
+### **7) 3rd Party App**
 
 - An app made by someone other than the official company.
 
