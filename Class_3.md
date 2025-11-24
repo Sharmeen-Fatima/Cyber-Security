@@ -115,7 +115,7 @@ Here is your professionally written and polished version:
    2. **How did the attack happen?**
    3. **How did the hacker gain access to the system?**
    4. **Whose mistake caused the attack?**
-   5. **What is the different between hack and attack?.**
+4.  **What is the different between hack and attack?.**
 
 ---
 
