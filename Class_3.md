@@ -6,18 +6,8 @@ A:
 2. Tokens
 3. Cookies
 
-### **1️⃣ Cookies**
-
-Cookies are small text files stored in your browser.
-They are used to:
-
-* remember your login
-* store your preferences
-* keep you signed in
-* track your active session
-
-**Example:**
-You stay logged into YouTube because the cookie stores your login info.
+---
+#### Let me Explain.
 
 ---
 
@@ -46,6 +36,21 @@ Types used in Google login:
 * **Refresh Token** → renews access when the token expires
 
 Tokens are more secure than simple session IDs.
+
+---
+
+### **1️⃣ Cookies**
+
+Cookies are small text files stored in your browser.
+They are used to:
+
+* remember your login
+* store your preferences
+* keep you signed in
+* track your active session
+
+**Example:**
+You stay logged into YouTube because the cookie stores your login info.
 
 ---
 
