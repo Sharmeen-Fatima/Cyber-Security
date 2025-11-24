@@ -6,11 +6,11 @@
 
 ### **2) Loophole**
 
-A hidden flaw that attackers use to bypass security.
+- A hidden flaw that attackers use to bypass security.
 
 ### **3) Weakness**
 
-Any security flaw that makes the system less strong.
+- Any security flaw that makes the system less strong.
 
 ### **4) CIA**
 
@@ -20,23 +20,23 @@ Any security flaw that makes the system less strong.
 
 ### **5) Threat**
 
-Anything that can harm a system.
+- Anything that can harm a system.
 
 ### **6) Hack**
 
-Gaining access into a system — for good or bad reasons.
+- Gaining access into a system — for good or bad reasons.
 
 ### **7) Attack**
 
-Trying to break or damage a system.
+- Trying to break or damage a system.
 
 ### **8) Virus**
 
-A harmful program that infects and spreads in computers.
+- A harmful program that infects and spreads in computers.
 
 ### **9) 3rd Party App**
 
-An app made by someone other than the official company.
+- An app made by someone other than the official company.
 
 ---
 
