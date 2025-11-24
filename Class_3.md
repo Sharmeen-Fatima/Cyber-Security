@@ -1,37 +1,4 @@
 
-
-### **1) Vulnerability**
-
-- A weakness in a system where an attacker can enter.
-
-### **2) Loophole**
-
-- A hidden flaw that attackers use to bypass security.
-
-### **3) Weakness**
-
-- Any security flaw that makes the system less strong.
-
-### **4) CIA**
-
-* **Confidentiality:** Only allowed people can view the data.
-* **Integrity:** Data must stay correct and unchanged.
-* **Availability:** Data must always be accessible.
-
-### **5) Threat**
-
-- Anything that can harm a system.
-
-### **6) Virus**
-
-- A harmful program that infects and spreads in computers.
-
-### **7) 3rd Party App**
-
-- An app made by someone other than the official company.
-
----
-
 ## Q1: When you log in to your Google account on any PC, what things get generated?
 
 ---
@@ -92,5 +59,25 @@ You stay logged into YouTube because the cookie stores your login info.
 * **Session ID:** Identifies your active session.
 * **Tokens:** Secure identity and access keys.
 * **Cookies:** Store login and preferences.
+
+---
+
+Here is a clean, professional, and easy-to-understand **table with examples** for all terms you shared:
+
+---
+
+## **Cybersecurity Terms — Professional Table with Simple Examples**
+
+| **Term**                                           | **Definition**                                               | **Example **                                                                                                                                               |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Vulnerability**                                  | A weakness in a system that attackers can use to enter.                              | *Old software that doesn’t update automatically can be a vulnerability.*                                                                                                 |
+| **Loophole**                                       | A hidden flaw that attackers use to bypass security.                                 | *If a website forgets to check passwords properly, hackers can use this loophole to log in.*                                                                             |
+| **Weakness**                                       | Any flaw that reduces the security strength of a system.                             | *Using “1234” as a password is a weakness.*                                                                                                                              |
+| **CIA (Confidentiality, Integrity, Availability)** | A security model that ensures data is protected, correct, and available when needed. | *Bank websites use CIA: only the user can view information (Confidentiality), account balance stays accurate (Integrity), and the site must stay online (Availability).* |
+| **Threat**                                         | Anything that can cause harm to a system.                                            | *Hackers trying to steal data is a threat.*                                                                                                                              |
+| **Attack**                                         | An action taken to harm, break, or hack a system.                                    | *Sending a fake login page to steal passwords is an attack.*                                                                                                             |
+| **Virus**                                          | A harmful program that can infect and spread in computers.                           | *A virus can enter when you download a fake software file.*                                                                                                              |
+| **3rd Party App**                                  | An app made by a developer other than the official company.                          | *Downloading apps from outside Play Store or App Store is using a third-party app.*                                                                                      |
+| **HTTPS**                                          | A protocol that creates a secure connection between user and server to protect data. | *When you see “https://” on a website, your password is sent safely.*                                                                                                    |
 
 ---
