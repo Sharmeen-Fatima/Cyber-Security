@@ -81,3 +81,26 @@ Here is a clean, professional, and easy-to-understand **table with examples** fo
 | **HTTPS**                                          | A protocol that creates a secure connection between user and server to protect data. | *When you see “https://” on a website, your password is sent safely.*                                                                                                    |
 
 ---
+
+Here is your professionally written and polished version:
+
+---
+
+## **HOMEWORK**
+
+1. **Check how much backup data is currently stored in your WhatsApp account.**
+
+2. **What is Flipper Zero?**
+
+3. **Research and prepare information about your favorite hack or cyber attack that occurred anywhere in the world. We will discuss it in the next class.**
+
+   **As per Sir Mustafa’s instructions, you must answer only these four points:**
+
+   1. **When did the attack happen?**
+   2. **How did the attack happen?**
+   3. **How did the hacker gain access to the system?**
+   4. **Whose mistake caused the attack?**
+
+---
+
+
