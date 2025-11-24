@@ -53,9 +53,8 @@ They are used to:
 You stay logged into YouTube because the cookie stores your login info.
 
 ---
-
-* **Cookies:** Store login and preferences.
 * **Session ID:** Identifies your active session.
 * **Tokens:** Secure identity and access keys.
+* **Cookies:** Store login and preferences.
 
 ---
