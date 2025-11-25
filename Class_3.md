@@ -77,10 +77,6 @@ You stay logged into YouTube because the cookie stores your login info.
 
 ---
 
-Here is a clean, professional, and easy-to-understand **table with examples** for all terms you shared:
-
----
-
 ## **Cybersecurity Terms — Beginners Table with Simple Examples**
 
 | **Term**                                           | **Definition**                                               | **Example **                                                                                                                                               |
