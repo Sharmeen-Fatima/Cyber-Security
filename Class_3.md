@@ -90,11 +90,6 @@ You stay logged into YouTube because the cookie stores your login info.
 | **Virus**                                          | A harmful program that can infect and spread in computers.                           | *A virus can enter when you download a fake software file.*                                                                                                              |
 | **3rd Party App**                                  | An app made by a developer other than the official company.                          | *Downloading apps from outside Play Store or App Store is using a third-party app.*                                                                                      |
 | **HTTPS**                                          | A protocol that creates a secure connection between user and server to protect data. | *When you see “https://” on a website, your password is sent safely.*                                                                                                    |
-
----
-
-Here is your professionally written and polished version:
-
 ---
 
 ## **HOMEWORK**
