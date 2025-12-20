@@ -112,3 +112,17 @@ HTTP, SMTP, FTP
 
 **Purpose**  
 Provides services for email servers, file servers, web browsers, and other applications.
+
+---
+
+🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
+📅 **Last Updated:** *20 December 2025*  
+
+- **📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).****
+- ***✒ For more information about Cyber-Security and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+
+
+***“Learning never stops — stay curious, stay creative!”***
+
+
+***☺️STAY HERE, STAY CONNECTED✨***
