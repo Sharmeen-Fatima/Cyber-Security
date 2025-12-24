@@ -140,7 +140,114 @@ Ping = **Availability** ✅
 Tracert = **Path analysis** 🛣️
 Both = **ICMP based** 📡
 
+---
 
+### Q21. What does `ipconfig` do? 🌐
+
+**Answer:** Shows your computer’s **IP address, subnet mask, and gateway** 📡
+
+---
+
+### Q22. What is the purpose of `ping`? 📡
+
+**Answer:** Checks if a host or website is **reachable and responding** ✅
+
+---
+
+### Q23. What does `ping -t` do? 🔄
+
+**Answer:** Continuously pings a host until you **manually stop it** ✋
+
+---
+
+### Q24. What is `tracert` used for? 🛣️
+
+**Answer:** Shows the **network path (hops)** packets take to reach a destination 📍
+
+---
+
+### Q25. What does `tasklist` show? 📋
+
+**Answer:** Displays all **currently running processes** on your system 🖥️
+
+---
+
+### Q26. What is `taskkill` used for? ❌
+
+**Answer:** Terminates a running process by **name or ID** 🛑
+
+---
+
+### Q27. Difference: `taskkill /pid (PID)` vs `/f /pid (PID)` 🎯🔥
+
+**Answer:**
+
+* `/pid` → Stops a process using its Process ID
+* `/f /pid` → **Forcefully stops** a process using its PID
+
+---
+
+### Q28. What does `netstat` do? 🌐
+
+**Answer:** Shows all **active network connections** on your computer
+
+---
+
+### Q29. What does `netstat -ao` show? 👀
+
+**Answer:** Shows network connections along with their **associated Process IDs (PID)**
+
+---
+
+### Q30. What is `systeminfo`? 🧾
+
+**Answer:** Displays detailed **system and operating system information**
+
+---
+
+### Q31. What does `wmic` do? ⚙️
+
+**Answer:** Provides information about **system, hardware, and running processes**
+
+---
+
+### Q32. What does `ver` command show? 🪟
+
+**Answer:** Displays the **Windows version** installed on the system
+
+---
+
+### Q33. What is `hostname`? 🏷️
+
+**Answer:** Shows the **name of the computer**
+
+---
+
+### Q34. What does `whoami` do? 👤
+
+**Answer:** Shows the **currently logged-in user**
+
+---
+
+### Q35. What does `time` command do? ⏰
+
+**Answer:** Displays or sets the **system time**
+
+---
+
+### Q36. What does `date` command do? 📅
+
+**Answer:** Displays or sets the **system date**
+
+---
+
+### 🔐 Cyber Security Exam Tips ⭐
+
+* Use `ping` & `tracert` for **network troubleshooting & reconnaissance** 🌐
+* Use `tasklist` & `taskkill` to **monitor/stop suspicious processes** 🖥️
+* Use `systeminfo`, `wmic`, `hostname`, `whoami` for **system enumeration** 🕵️‍♀️
+* Use `netstat -ao` to **track network connections and identify malicious processes** 👀
+* 
 ---
 
 > 💡 *This README is for educational purposes — designed to help beginners understand the core concepts of Cyber Security clearly and professionally.*
