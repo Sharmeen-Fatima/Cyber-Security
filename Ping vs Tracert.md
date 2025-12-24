@@ -70,9 +70,6 @@ tracert google.com
 
 * Understand core networking commands
 * Build strong foundation for **Cyber Security**
-* Prepare for **interviews & certifications**
-
-
 
 ---
 
