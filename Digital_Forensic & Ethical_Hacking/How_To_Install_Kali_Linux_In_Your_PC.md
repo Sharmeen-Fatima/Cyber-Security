@@ -57,17 +57,6 @@ A Virtual Machine allows you to run Linux **inside Windows**.
 
 👉 We will use this method in this guide.
 
-
-Got it — you want a clean, professional, beginner-friendly GitHub README that teaches students how to install Kali Linux using VirtualBox, with a short explanation of dual boot vs virtualization.
-
-Here’s a complete repo-ready README you can copy and push 👇
-
----
-
-# 🐧 Kali Linux Installation Guide for Beginners
-
-This repository is designed to help students install **Kali Linux** step by step using **VirtualBox** in a simple and beginner-friendly way.
-
 ---
 
 ## 📌 Introduction
