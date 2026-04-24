@@ -2,7 +2,7 @@
 
 ## 📖 What is Linux?
 
-**Linux** is an open-source operating system just like Windows and macOS. It is widely used by developers, cybersecurity professionals, and system administrators.
+**Linux** is an open-source operating system, similar to Windows and macOS. It is widely used by developers, cybersecurity professionals, and system administrators.
 
 ### 💡 Why do we use Linux?
 
@@ -12,7 +12,7 @@
 * Widely used in **cybersecurity and ethical hacking**
 * Supports powerful command-line tools
 
-👉 Kali Linux is a special Linux distribution used for **penetration testing and security learning**.
+👉 **Kali Linux** is a specialized Linux distribution used for **penetration testing and security learning**.
 
 ---
 
@@ -29,37 +29,7 @@ Before starting, make sure your system meets the following minimum requirements:
 
 ---
 
-## 📌 Introduction
-
-Before installing Kali Linux, it is important to understand the two common methods:
-
-### 1. Dual Boot (Advanced Users)
-
-Dual Boot allows you to install **Windows and Linux on the same machine**.
-
-* You can use **only one Operating System at a time**
-* You must **restart your PC** to switch between Windows and Linux
-* More suitable for **professionals and advanced users**
-* Requires disk partitioning and careful setup
-
-👉 Not recommended for beginners.
-
----
-
-### 2. Virtual Machine (Recommended for Students)
-
-A Virtual Machine allows you to run Linux **inside Windows**.
-
-* No need to restart your PC
-* Easy to install and manage
-* Safe for beginners
-* Both systems can run at the same time
-
-👉 We will use this method in this guide.
-
----
-
-## 📌 Introduction
+## 📌 Installation Methods
 
 Before installing Kali Linux, it is important to understand the two common methods:
 
@@ -153,7 +123,7 @@ Virtualization must be enabled on your system.
 
 1. Open VirtualBox
 2. Click **New**
-3. Fill details:
+3. Fill in the details:
 
 * Name: `Kali Linux`
 * Type: `Linux`
@@ -161,14 +131,14 @@ Virtualization must be enabled on your system.
 
 4. Set Memory (RAM):
 
-   * Minimum: 2 GB
-   * Recommended: 4 GB
+* Minimum: 2 GB
+* Recommended: 4 GB or more
 
 5. Create Virtual Hard Disk:
 
-   * Type: VDI
-   * Storage: Dynamically Allocated
-   * Size: 20 GB (minimum)
+* Type: VDI
+* Storage: Dynamically Allocated
+* Size: 20 GB (minimum)
 
 ---
 
@@ -179,7 +149,7 @@ Virtualization must be enabled on your system.
 3. Go to **Storage**
 4. Under Controller IDE → Click Empty
 5. Click disk icon → **Choose a disk file**
-6. Select downloaded Kali Linux ISO file
+6. Select the downloaded Kali Linux ISO file
 
 ---
 
@@ -189,16 +159,14 @@ Virtualization must be enabled on your system.
 
 2. Kali Linux installer will open
 
-3. Select:
-
-   * Graphical Install (Recommended)
+3. Select **Graphical Install (Recommended)**
 
 4. Follow on-screen instructions:
 
-   * Language
-   * Location
-   * Keyboard layout
-   * Username & Password
+* Language
+* Location
+* Keyboard layout
+* Username & Password
 
 5. Wait for installation to complete
 
@@ -214,18 +182,18 @@ Virtualization must be enabled on your system.
 
 ## 🧑‍💻 Optional: Install VS Code
 
-You can install **VS Code** inside Kali Linux for coding practice.
+You can install **VS Code** inside Kali Linux for coding and development practice.
 
 ---
 
 ## 🎯 Final Notes
 
-* Always download files from official websites
+* Always download software from official websites
 * Do not rush BIOS settings
-* Minimum system requirements:
+* Recommended system:
 
-  * 8 GB RAM recommended
-  * SSD preferred
+  * 8 GB+ RAM
+  * SSD for better performance
 
 ---
 
@@ -238,3 +206,4 @@ After completing this guide, students will be able to:
 * Set up Kali Linux safely
 * Work in a Linux environment
 
+ 
