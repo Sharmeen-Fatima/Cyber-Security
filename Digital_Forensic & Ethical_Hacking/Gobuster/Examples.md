@@ -238,3 +238,23 @@ Each "Found" entry indicates that the server responded positively for that resou
 # Summary
 
 These examples demonstrate common Gobuster commands used during authorized reconnaissance and enumeration. Understanding these examples provides a solid foundation for learning how Gobuster is used in ethical hacking and penetration testing.
+
+---
+
+> 💡 *This README is for educational purposes — designed to help beginners understand the core concepts of Digital_Forensic & Ethical_Hacking clearly and professionally.*
+
+---
+
+🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
+📅 **Last Updated:** *29 June 2026*  
+
+- **📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).****
+- ***✒ For more information about Digital_Forensic & Ethical_Hacking and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+
+
+***“Learning never stops — stay curious, stay creative!”***
+
+
+***☺️STAY HERE, STAY CONNECTED✨***
+
+
