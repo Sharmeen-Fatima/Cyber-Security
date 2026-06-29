@@ -286,3 +286,24 @@ Displays the installed Gobuster version.
 # Summary
 
 Gobuster provides several powerful modes for enumeration. Understanding the purpose of each mode and its options helps security professionals perform efficient and organized reconnaissance during authorized penetration testing.
+
+
+---
+
+> 💡 *This README is for educational purposes — designed to help beginners understand the core concepts of Digital_Forensic & Ethical_Hacking clearly and professionally.*
+
+---
+
+🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
+📅 **Last Updated:** *29 June 2026*  
+
+- **📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).****
+- ***✒ For more information about Digital_Forensic & Ethical_Hacking and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+
+
+***“Learning never stops — stay curious, stay creative!”***
+
+
+***☺️STAY HERE, STAY CONNECTED✨***
+
+
