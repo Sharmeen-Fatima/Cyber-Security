@@ -142,3 +142,23 @@ If you encounter file permission problems, verify that your user account has app
 # Summary
 
 Your environment is now ready for exploring the project in an educational and authorized setting. Continue with **Usage.md** to learn about the project workflow and its educational purpose.
+
+
+---
+
+> 💡 *This README is for educational purposes — designed to help beginners understand the core concepts of Cyber Security clearly and professionally.*
+
+---
+
+🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
+📅 **Last Updated:** *02 June 2026*  
+
+- **📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).****
+- ***✒ For more information about Cyber-Security and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+
+
+***“Learning never stops — stay curious, stay creative!”***
+
+
+***☺️STAY HERE, STAY CONNECTED✨***
+
