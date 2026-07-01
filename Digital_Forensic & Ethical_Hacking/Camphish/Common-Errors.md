@@ -251,3 +251,24 @@ Before seeking additional help, verify the following:
 # Summary
 
 Most issues are related to installation, permissions, network configuration, or browser settings. By carefully reviewing error messages and following the troubleshooting steps in this guide, users can resolve common problems more efficiently.
+
+
+
+---
+
+> 💡 *This README is for educational purposes — designed to help beginners understand the core concepts of Cyber Security clearly and professionally.*
+
+---
+
+🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
+📅 **Last Updated:** *02 June 2026*  
+
+- **📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).****
+- ***✒ For more information about Cyber-Security and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+
+
+***“Learning never stops — stay curious, stay creative!”***
+
+
+***☺️STAY HERE, STAY CONNECTED✨***
+
