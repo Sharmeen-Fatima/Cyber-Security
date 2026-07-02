@@ -214,3 +214,24 @@ The demonstration was stopped manually using **Ctrl + C**, which safely terminat
 # Summary
 
 This laboratory exercise demonstrated the workflow of the CamPhish application, including tunnel initialization, local web server startup, event monitoring, and logging of application events. Sensitive information has been intentionally redacted from this report to maintain privacy and follow ethical cybersecurity practices.
+
+---
+
+# Information Observed During the Laboratory Demonstration
+
+When the demonstration page was accessed, the application reported the following events in its output:
+
+* **Connection Event:** The application detected that the demonstration page had been opened.
+* **Network Information:** The application logged connection-related metadata (such as the connecting device's network information).
+* **Browser Information:** The application indicated that browser/device identification information (User-Agent) was available.
+* **Location Event:** The application reported that location information had been received after the browser granted the required permission.
+* **Location Accuracy:** The output included an estimated accuracy value for the reported location.
+* **Timestamp:** The application recorded the date and time of the received event.
+* **Camera Event:** The application reported that camera-related data had been received after the required browser permission was granted.
+* **Application Logs:** The tool displayed status messages indicating successful server startup, tunnel creation, incoming connection events, and other operational logs.
+* **Warnings:** The application also displayed warning messages where expected output files were not available.
+
+## Note
+
+This report documents only the observations made during the authorized laboratory exercise. Any sensitive or personally identifiable information has been intentionally omitted from this document to maintain privacy and follow ethical cybersecurity practices.
+
